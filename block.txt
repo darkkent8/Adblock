@@ -18,3 +18,4 @@ tom.itv.com
 192.168.0.2 2a7e9.v.fwmrm.net
 192.168.0.2 2356e.v.fwmrm.net
 ad.doubleclick.net
+cdn.http.anno.channel4.com
