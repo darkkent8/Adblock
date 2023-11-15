@@ -2,14 +2,7 @@
 ! Title: mylist
 ! Description: mylist
 ! Homepage: ttps://github.com/darkkent8/Adblock
-! 
-!
-! Compiled by @adguard/hostlist-compiler v1.0.22
-!
-!
-! Source name: AdAway Default Blocklist
-! Source: https://adaway.org/hosts.txt
-!
+
 
 # [163.com]
 akamaiedge.net
@@ -24,3 +17,4 @@ monitor.channel4.com
 tom.itv.com
 192.168.0.2 2a7e9.v.fwmrm.net
 192.168.0.2 2356e.v.fwmrm.net
+ad.doubleclick.net
