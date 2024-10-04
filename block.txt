@@ -31,3 +31,13 @@
 127.0.0.1 webstats.channel4.com
 127.0.0.1 c4ads.2cnt.net
 127.0.0.1 cdn.http.anno.channel4.com
+2356e.v.fwmrm.net
+ads-pres.channel4.com
+cdn.http.anno.channel4.com
+cdn.ss.anno.channel4.com
+p.videologygroup.com
+securecdn.videologygroup.com
+toots-a.akamaihd.net
+trk-euwest.tidaltv.com
+2a7e9.v.fwmrm.net
+c4smarttv.2cnt.net
