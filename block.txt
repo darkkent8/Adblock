@@ -15,20 +15,19 @@
 127.0.0.1 securecdn.videologygroup.com
 127.0.0.1 monitor.channel4.com
 127.0.0.1 tom.itv.com
-127.0.0.1 192.168.0.2 2a7e9.v.fwmrm.net
 127.0.0.1 192.168.0.2 2356e.v.fwmrm.net
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 cdn.http.anno.channel4.com
-ads.channel4.com
-cdn.http.anno.channel4.com
-cdn.ss.anno.channel4.com
-channel4.com.112.2o7.net
-channel4.com.sc.omtrdc.net
-channel4.com.ssl.sc.omtrdc.net
-ic.channel4.com
-monitor.channel4.com
-sexperienceuk.channel4.com
-webstat.channel4.com
-webstats.channel4.com
-c4ads.2cnt.net
-cdn.http.anno.channel4.com
+127.0.0.1 ads.channel4.com
+127.0.0.1 cdn.http.anno.channel4.com
+127.0.0.1 cdn.ss.anno.channel4.com
+127.0.0.1 channel4.com.112.2o7.net
+127.0.0.1 channel4.com.sc.omtrdc.net
+127.0.0.1 channel4.com.ssl.sc.omtrdc.net
+127.0.0.1 ic.channel4.com
+127.0.0.1 monitor.channel4.com
+127.0.0.1 sexperienceuk.channel4.com
+127.0.0.1 webstat.channel4.com
+127.0.0.1 webstats.channel4.com
+127.0.0.1 c4ads.2cnt.net
+127.0.0.1 cdn.http.anno.channel4.com
