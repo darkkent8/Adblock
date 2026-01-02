@@ -1,0 +1,9 @@
+gew1-spclient.spotify.com/melody
+gew1-spclient.spotify.com/connect-state
+gew1-spclient.spotify.com/melody
+gew1-spclient.spotify.com/connect-state
+gew1-spclient.spotify.com/gabo-receiver-service
+gew1-spclient.spotify.com/track-playback
+api.spotify.com^$xhr
+gew1-spclient.spotify.com/storage-resolve
+gew1-spclient.spotify.com/widevine-license
